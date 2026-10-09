@@ -1,0 +1,5 @@
+Version: 4.0 alpha
+Channel: alpha
+From: github-src
+Kernel version: unknown
+Source: github.com/ArchDroidOS/ArchDroidOS
